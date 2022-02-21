@@ -1,0 +1,2 @@
+Criação de um banco de dados que se alimente de informações de fontes confiáveis na web, como revista médica internacional. 
+
